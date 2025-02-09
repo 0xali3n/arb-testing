@@ -12,7 +12,9 @@
   "dependencies": {
     "autoprefixer": "^10.4.20",
     "ethers": "5.7.2",
+    "framer-motion": "^12.4.1",
     "install": "^0.13.0",
+    "moralis": "^2.27.2",
     "npm": "^11.1.0",
     "postcss": "^8.4.49",
     "react": "^18.3.1",
